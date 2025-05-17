@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": { "@/lib/*": ["lib/*"] },
+    "target": "es5",
+    "module": "esnext",
+    "jsx": "preserve",
+    "strict": true
+  }
+}
